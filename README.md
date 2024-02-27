@@ -1,1 +1,2 @@
 # TravelingSalesman
+This project was for a data structures and algorithms course where I was asked to create a program that would deliver a certain number of packages in less than a given amount of miles while also meeting delivery deadlines and accounting for a late arrival to the shipping center. I used a graph data structure to model the distances between the locations and implemented a version of the greedy algorithm in order to meet the delivery mileage requirements.
